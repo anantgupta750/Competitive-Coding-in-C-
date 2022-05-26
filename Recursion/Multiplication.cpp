@@ -1,5 +1,7 @@
 // Multiplication (Recursive)
-// Given two integers M & N, calculate and return their multiplication using recursion. You can only use subtraction and addition for your calculation. No other operators are allowed.
+// Given two integers M & N, calculate and return their multiplication using recursion. 
+//You can only use subtraction and addition for your calculation. 
+//No other operators are allowed.
 // Input format :
 // Line 1 : Integer M
 // Line 2 : Integer N
